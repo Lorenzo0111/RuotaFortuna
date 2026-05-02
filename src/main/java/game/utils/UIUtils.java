@@ -85,7 +85,7 @@ public class UIUtils {
             } else {
                 System.err.println("Impossibile trovare logo.png nelle risorse!");
             }
-        } catch (IOException e) {
+        } catch (Exception | Error e) {
             e.printStackTrace();
         }
     }
