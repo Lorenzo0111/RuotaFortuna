@@ -99,6 +99,16 @@ I messaggi estendono `GamePacket` e seguono un formato con **ID** e dati seriali
 
 ---
 
+## 📹 Showcase
+
+<div align="center">
+
+https://github.com/user-attachments/assets/c3cd73aa-4ffb-4867-b6ee-c9ccf2d6db30
+
+</div>
+
+---
+
 <div align="center">
 
 Fatto con ❤️ da [@Lorenzo0111](https://github.com/Lorenzo0111)
